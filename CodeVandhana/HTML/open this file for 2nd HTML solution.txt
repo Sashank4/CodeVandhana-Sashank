@@ -1,0 +1,8 @@
+Here is the link to github repository of 2nd HTML question
+
+GitHub repository: https://github.com/Sashank4/survey-form
+Site link: https://surveythis.netlify.app/
+
+I used react framework to create the form submission page. So, I am unable to upload the whole file thay's why I am keeping this link here
+
+Thank you so much 
